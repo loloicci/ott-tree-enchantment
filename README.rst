@@ -2,4 +2,4 @@
  ott-tree-enchant
 ##################
 
-Patch for making tex tree generated with ott beautiful.
+Patches for making tex tree generated with ott beautiful.
